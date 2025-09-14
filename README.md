@@ -1,6 +1,6 @@
 # ASPIRING SOFTWARE DEVELOPER
 
-#👋 Hi, I'm [Sijabulile Ncube]
+#👋 Hi, I'm Sijabulile Ncube
 
 🌱 Beginner Software Developer | 🚀 Excited to Learn & Build
 
@@ -70,13 +70,17 @@ Here are some of my milestone projects (to be updated as I progress!):
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-📧 Email: [youremail@example.com](mailto:youremail@example.com)
+📧 Email: [youremail@example.com](s.mabhena@gmail.com)
 
 ---
 
 ## 🚀 Fun Fact
 
 💡 I love learning new things and can't wait to build my first website!
+💡 Currently learning Software Development with Codespace.
+💡 I am a Banker by day and a Garderner in the evening and weekends!
+💡 I make my own Aryuverdic hair oils which I use to care for my natural hair and my daughters hair!
+
 
 ---
 
