@@ -1,4 +1,5 @@
-#   ASPIRING SOFTWARE DEVELOPER
+# ASPIRING SOFTWARE DEVELOPER
+
 #👋 Hi, I'm [Sijabulile Ncube]
 
 🌱 Beginner Software Developer | 🚀 Excited to Learn & Build
@@ -37,7 +38,6 @@
 - 🚀 Adaptability
 - ⏰ Time Management
 - 🤔 Critical Thinking
-  
 
 ---
 
